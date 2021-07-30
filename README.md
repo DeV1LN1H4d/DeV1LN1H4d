@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning.... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <p align="center">
-<a href="https://Facebook.com/DevilNihad/"><img title="Author" src="https://img.shields.io/badge/Author-Dev1l%20N1H4d-red"></a>
+<a href="https://Facebook.com/DevilNihad/"><img title="Author" src="https://img.shields.io/badge/Author-Dev1L%20N1H4d-red"></a>
 
 
 <!---
