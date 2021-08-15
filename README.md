@@ -26,3 +26,6 @@
 
 <h4><i><b><a href ="https://www.facebook.com/Devilnihad/">DeV1LN1H4d</a></b></i></h4>
 </div>
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/DeV1LN1H4d"><img width=550 src="https://github-profile-trophy.vercel.app/?username=DeV1LN1H4d&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
