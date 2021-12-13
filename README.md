@@ -1,7 +1,7 @@
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 👋 Hi, I’m @DeV1LN1H4d</i></li>
 <li> 👀 I’m interested in programming 😍</i></li>
-<li> 🌱 I’m currently learning python</i></li>
+#<li> 🌱 I’m currently learning python</i></li>
 <li> 🇧🇩 <i>Resident of Bangladesh</i></li>
 <li> 😇 <i>Muslim</i></li>
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
