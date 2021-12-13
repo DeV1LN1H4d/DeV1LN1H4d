@@ -1,4 +1,4 @@
-## Hi there 👋, My name is DeV1LN1H4d
+## Hi My name is DeV1LN1H4d
 ### DEV1L N1H4D
 ![DEVIL NIHAD.](https://raw.githubusercontent.com/DeV1LN1H4d/DeV1LN1H4d/main/Dn/Dnlogo.gif)
 <h3><b><i>🤠 About me :</i></b></h3>
