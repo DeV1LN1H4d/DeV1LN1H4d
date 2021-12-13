@@ -2,16 +2,11 @@
 - 👋 Hi, I’m @DeV1LN1H4d
 - 👀 I’m interested in programming 😍
 - 🌱 I’m currently learning python
-- 📫 How to reach me: Try and try <p align="center">
-<a href="https://Facebook.com/DevilNihad/"><img title="Author" src="https://img.shields.io/badge/Author-Dev1L%20N1H4d-red"></a>
 <li> 🇧🇩 <i>Resident of Bangladesh</i></li>
 <li> 😇 <i>Muslim</i></li>
-<li> 😐 <i>Studying at Kindergarten</i></li>
-<li> 😪 <i>Love Sleeping</i></li>
-<li> 💔 <i>Born Single</i></li>
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
-<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
-
+<li> 📫 <i>How to reach me: Try and try</i></li>
+<a href="https://Facebook.com/DevilNihad/"><img title="Author" src="https://img.shields.io/badge/Author-Dev1L%20N1H4d-red"></a>
 ******************************************
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeV1LN1H4d&show_icons=true&theme=radical)
