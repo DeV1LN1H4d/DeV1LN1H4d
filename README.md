@@ -29,7 +29,7 @@
 <a href="https://github.com/DeV1LN1H4d"><img width=550 src="https://github-profile-trophy.vercel.app/?username=DeV1LN1H4d&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/Dev1LN1h4d"><img align="left" title="Github" alt="Github" width="30px" src="dn/github.png" /></a>
-<a href="https://fb.com/devilnihad"><img align="left" title="Facebook" alt="Facebook" width="30px" src="dn/facebook.png" /></a>
-<a href="https://m.me/devilnihad"><img align="left" title="Messenger" alt="Messenger" width="30px" src="dn/messenger.png" /></a>
-<a href="https://www.instagram.com/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="dn/instagram.png" /></a>
+<a href="https://github.com/Dev1LN1h4d"><img align="left" title="Github" alt="Github" width="30px" src="Dn/github.png" /></a>
+<a href="https://fb.com/devilnihad"><img align="left" title="Facebook" alt="Facebook" width="30px" src="Dn/facebook.png" /></a>
+<a href="https://m.me/devilnihad"><img align="left" title="Messenger" alt="Messenger" width="30px" src="Dn/messenger.png" /></a>
+<a href="https://www.instagram.com/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="Dn/instagram.png" /></a>
