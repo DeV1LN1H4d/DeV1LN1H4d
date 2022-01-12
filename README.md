@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=30&lines=HEY!+I'M+DEVIL+NIHAD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=30&lines=HEY!+I'M+DEVIL+NIHAD)](https://github.com/DeV1LN1H4d)
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 👀 I’m interested in programming 😍</i></li>
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
