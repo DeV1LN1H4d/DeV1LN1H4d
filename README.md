@@ -34,4 +34,4 @@
 <a href="https://github.com/Dev1LN1h4d"><img align="left" title="Github" alt="Github" width="30px" src="Dn/github.png" /></a>
 <a href="https://fb.com/devilnihad"><img align="left" title="Facebook" alt="Facebook" width="30px" src="Dn/facebook.png" /></a>
 <a href="https://m.me/devilnihad"><img align="left" title="Messenger" alt="Messenger" width="30px" src="Dn/messenger.png" /></a>
-<a href="https://www.instagram.com/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="Dn/instagram.png" /></a>
+<a href="https://www.instagram.com/devilnihad"><img align="left" title="Instagram" alt="Instagram" width="30px" src="Dn/instagram.png" /></a>
